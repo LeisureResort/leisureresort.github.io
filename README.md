@@ -1,5 +1,5 @@
 # 欢迎来到LeisureResort
-
+![img](https://api.mclists.cn/banner/play.simpfun.cn_23398.jpg)
 别看了，啥也没有
 
 
