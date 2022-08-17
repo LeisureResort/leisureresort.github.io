@@ -1,4 +1,4 @@
-j# 欢迎来到LeisureResort
+# 欢迎来到LeisureResort
 
 别看了，啥也没有
 
