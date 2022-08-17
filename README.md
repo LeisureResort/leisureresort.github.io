@@ -1,4 +1,4 @@
-# 欢迎来到LeisureResort
+j# 欢迎来到LeisureResort
 
 别看了，啥也没有
 
@@ -12,4 +12,4 @@
 
 
 这个网页由杰瑞维护
-### Powered By GitHub Pages
+### 本站点是使用 [GitHub Pages](https://pages.github.com/) 构建的
