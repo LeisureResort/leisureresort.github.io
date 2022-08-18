@@ -19,6 +19,7 @@
 Java♨可以使用(1.9-1.19)加入
 
 ` 服务器地址    LeisureResort.mc.cfd`
+
 `      备用    play.simpfun.cn:23398`
 
 > 注：基岩版📱和Java版💻一个地址就能连接!🌟Amazing!🌟
