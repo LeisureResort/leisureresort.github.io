@@ -4,9 +4,9 @@
 
 [[🏠点击这里回到主页]](/README.md)
 
-![img](/zz/10f10077930886a6.png)
+![img](/zz/10f10077930886a6.jpg)
 
-![img](/zz/42bf403c0c5db5c8.png)
+![img](/zz/42bf403c0c5db5c8.jpg)
 
 > 完成后请联系qq`1160968261`以保证赞助成功
 
