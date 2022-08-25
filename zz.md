@@ -6,6 +6,6 @@
 
 [[🎁礼包]](zz_lb.md)
 
-[[👑开通VIP/SVIP]](zz_scm.md)
+[[👑开通VIP/SVIP]](VIP.md)
 
 [[🌐打开爱发电]](https://afdian.net/@Zongzi21o)
